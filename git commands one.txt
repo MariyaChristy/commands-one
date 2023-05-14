@@ -1,0 +1,4 @@
+git init -> initiaizing git command
+git status->
+git add -A
+git commit -m"messagges"
