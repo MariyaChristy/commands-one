@@ -1,4 +1,5 @@
 git init -> initiaizing git command
 git status->
-git add -A
-git commit -m"messagges"
+git add -A ->
+git commit -m"messagges" ->
+then create changes in this file and check the status and and add files and commit this file
